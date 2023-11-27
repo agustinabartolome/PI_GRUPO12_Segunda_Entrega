@@ -1,0 +1,15 @@
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.Form1.resources
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.AssemblyInfoInputs.cache
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.AssemblyInfo.cs
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\bin\Debug\netcoreapp3.1\PI_Grupo_12.exe
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\bin\Debug\netcoreapp3.1\PI_Grupo_12.deps.json
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\bin\Debug\netcoreapp3.1\PI_Grupo_12.runtimeconfig.json
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\bin\Debug\netcoreapp3.1\PI_Grupo_12.runtimeconfig.dev.json
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\bin\Debug\netcoreapp3.1\PI_Grupo_12.dll
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\bin\Debug\netcoreapp3.1\PI_Grupo_12.pdb
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.dll
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.pdb
+C:\Users\agust\source\repos\PI_Grupo_12\PI_Grupo_12\obj\Debug\netcoreapp3.1\PI_Grupo_12.genruntimeconfig.cache
